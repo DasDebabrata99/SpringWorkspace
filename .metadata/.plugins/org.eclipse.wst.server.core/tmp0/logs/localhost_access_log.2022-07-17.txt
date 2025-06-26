@@ -1,0 +1,14 @@
+127.0.0.1 - - [17/Jul/2022:11:00:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:03:14 +0530] "GET /Web-crm-app/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:03:45 +0530] "GET /Web-crm-app/customer/list HTTP/1.1" 500 22491
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:03:45 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [17/Jul/2022:11:08:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:08:20 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 242
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:08:21 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:13:50 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 318
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:14:02 +0530] "GET /spring-mvc-demo/processFormVersionTwo?studentName=Debabrata HTTP/1.1" 200 94
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:14:33 +0530] "GET /spring-mvc-demo/student/showForm HTTP/1.1" 200 1537
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:14:53 +0530] "POST /spring-mvc-demo/student/processForm HTTP/1.1" 200 260
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:15:39 +0530] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 758
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:15:56 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 941
+0:0:0:0:0:0:0:1 - - [17/Jul/2022:11:16:07 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 133

@@ -1,0 +1,4 @@
+1652836607865	Rename resource 'spring-mvc-demo-servlet.xml'
+1652872856508	Rename type 'Customer'
+1652887319838	Move 'index.jsp' to 'WebContent'
+1653012505798	Rename field 'customerDao'

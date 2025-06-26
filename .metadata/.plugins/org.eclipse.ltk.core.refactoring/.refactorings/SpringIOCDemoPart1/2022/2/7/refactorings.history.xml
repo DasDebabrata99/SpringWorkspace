@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application-context.xml&apos; to &apos;Spring-demo-annotations/src&apos;&#x0A;- Original project: &apos;SpringIOCDemoPart1&apos;&#x0A;- Destination element: &apos;Spring-demo-annotations/src&apos;&#x0A;- Original element: &apos;application-context.xml&apos;" description="Copy file" destination="=Spring-demo-annotations/src=/optional=/true=/=/maven.pomderived=/true=/" element1="src/application-context.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644295030396" units="0" version="1.0"/>
+</session>

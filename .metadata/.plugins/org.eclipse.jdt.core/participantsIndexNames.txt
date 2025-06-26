@@ -1,0 +1,27 @@
+INDEX VERSION 1.131
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3246518651.index
+\spring-mvc-demo\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\178332551.index
+\Web-crm-app\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1876902359.index
+\Web-crm-app\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2825962372.index
+\web-crm\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3020465599.index
+\web-customers-tracker\src\main\java
+C:\workspaces\SpringWorkspace\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2253998065.index
+\Web-crm-app\src
+C:\workspaces\SpringWorkspace\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
+\spring-mvc-demo\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4017020249.index
+\spring-security-demo\src\main\java
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1256457432.index
+\spring-security-demo-01-base-app\src\main\java
+C:\workspaces\SpringWorkspace\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\500809132.index
+\Web-crm-app\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700459821.index
+\spring-mvc-demo\src
+\home\arc\Documents\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\517894682.index
+\spring-security-demo-02-basic-security\src\main\java
+C:\workspaces\SpringWorkspace\SpringWorkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1514348238.index
+\spring-security-demo-02-basic-security\src\main\java
